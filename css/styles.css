@@ -1,6 +1,6 @@
 /*
 Colors used: 
-Primary Color: #0129BC & #FBF66A
+Primary Color: #0129BC (blue) & #FBF66A (yellow)
 Secondary Color:
 
 Fonts used: 
@@ -14,14 +14,24 @@ H3 - 16
 p - 16
 */
 
-h1{
-    font-family: 'young Serif', serif;
-    font-size: 36px;
+body{
+    background-color:#FFFCCC;
+    font-family:'cormorant garamond', serif;
+    font-size:16px;
+    line-height: 1.2;
+    color: #012095;
+}
+
+h1, h2, h3{
     line-height: 1.5;
 }
 
-p{
-    font-family: 'cormorant garamond', serif;
-    font-size: 16px;
-    line-height: 1.2;
+h1{
+    font-family: 'young Serif', serif;
+    font-size: 36px;
+}
+
+h2{
+    font-family:'young Serif', serif;
+    font-size:24px;
 }
