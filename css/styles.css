@@ -3,12 +3,25 @@ Colors used:
 Primary Color: #0129BC & #FBF66A
 Secondary Color:
 
-Fonts used: Alegreya
-Primary Font: Alegreya
+Fonts used: 
+Headers: Young Serif
+Paragraphs: Cormorant Garamond
 
 Headers: 
 H1 - 36 
 H2 - 24
 H3 - 16
-p - 8
+p - 16
 */
+
+h1{
+    font-family: 'young Serif', serif;
+    font-size: 36px;
+    line-height: 1.5;
+}
+
+p{
+    font-family: 'cormorant garamond', serif;
+    font-size: 16px;
+    line-height: 1.2;
+}
