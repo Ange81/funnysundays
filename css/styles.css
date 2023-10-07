@@ -15,11 +15,11 @@ p - 16
 */
 
 body{
-    background-color:#FFFCCC;
+    background-color:#FBF66A;
     font-family:'cormorant garamond', serif;
     font-size:16px;
     line-height: 1.2;
-    color: #012095;
+    color: #212122;
 }
 
 h1, h2, h3{
@@ -34,4 +34,35 @@ h1{
 h2{
     font-family:'young Serif', serif;
     font-size:24px;
+}
+
+h3{
+    font-family: 'young Serif', serif;
+    font-size:16px;
+    font-weight:bold;
+    }
+
+
+img {
+    width: 100%;
+  }
+
+a{
+    color: #0129BC;
+    text-decoration: none;
+}
+
+a:visited{
+    color:#0129BC;
+}
+
+a:hover, 
+a:focus{
+    color: #3A2A8C;
+    text-decoration: underline;
+}    
+
+a:active{
+    color:#3A2A8C;
+    text-decoration: none;
 }
